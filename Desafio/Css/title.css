@@ -1,0 +1,22 @@
+#topo {
+    color: #545454;
+    font-size: 25px;
+    font-family: "Arial";
+}
+
+#estilo {
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
